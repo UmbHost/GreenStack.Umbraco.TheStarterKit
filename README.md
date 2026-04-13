@@ -1,10 +1,10 @@
-# GreenStack.Umbraco.StarterKit
+# GreenStack.Umbraco.TheStarterKit
 
-A GitHub template repository for Umbraco 17 with the Umbraco Starter Kit, preconfigured for [GreenStack](https://umbhost.net/sustainable-cloud-hosting/modern-umbraco-hosting) hosting.
+A GitHub template repository for Umbraco 17 with The Starter Kit, preconfigured for [GreenStack](https://umbhost.net/sustainable-cloud-hosting/modern-umbraco-hosting) hosting.
 
 ## What's included
 
-- Umbraco 17 on .NET 10 with the Umbraco Starter Kit
+- Umbraco 17 on .NET 10 with [The Starter Kit](https://marketplace.umbraco.com/package/umbraco.thestarterkit)
 - Forwarded headers middleware for Traefik proxy
 - HTTPS runtime validator removed (SSL terminated by GreenStack)
 - Data protection keys persisted to `/app/keys` in production
@@ -21,8 +21,8 @@ A GitHub template repository for Umbraco 17 with the Umbraco Starter Kit, precon
 Alternatively, install via dotnet new:
 
 ```bash
-dotnet new install UmbHost.GreenStack.Umbraco.StarterKit
-dotnet new greenstack-umbraco-starterkit -n MyProject
+dotnet new install UmbHost.GreenStack.Umbraco.TheStarterKit
+dotnet new greenstack-umbraco-thestarterkit -n MyProject
 ```
 
 ## GreenStack

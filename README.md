@@ -1,4 +1,4 @@
-# GreenStack.Umbraco.StarterKit
+# GreenStack.Umbraco.TheStarterKit
 
 A GitHub template repository for Umbraco 17 with The Starter Kit, preconfigured for [GreenStack](https://umbhost.net/sustainable-cloud-hosting/modern-umbraco-hosting) hosting.
 
